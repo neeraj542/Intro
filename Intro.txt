@@ -1,12 +1,10 @@
-good evening sir,
-my self chetan verma,
-my scholar id is 222120016
-I am from Gwalior
-currently I am pursuing MCA from Maulana azad national institute of technology,
+Good Evening sir,
+My self Chetan Verma,
+My Scholar ID is 222120016.
+I am from Gwalior. Currently, I am pursuing MCA from Maulana Azad National Institute of Technology, Bhopal.
 and I have completed my BCA from Govt adarsh Science college gwalior in 2021 and secured 74%,
 and I have done my higher secondary from Govt boys higher secondary school in 2018 and secured 81%
 In My BCA I learn c/c++, java, javascript,git so I have good knowledge of c/c++, git and basic knowledge of java javascript 
-database
-And also I have done a little bit contribution in Openrefine which is an opensourse organiztion on github that work on messy data
-I am a good learner I like to learn new things
-and my hobbies are listening music and playing football.
+database. And also I have done a little bit contribution in Openrefine which is an opensourse organiztion on github that work on messy data.
+I am a good learner and I like to learn new things and my hobbies are listening music and playing football.
+
